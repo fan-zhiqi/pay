@@ -1,0 +1,120 @@
+{
+  "uid" : "356d594291a4bd1c",
+  "name" : "test_order",
+  "fullName" : "testcase.test_mtx_order.TestOrder#test_order",
+  "historyId" : "22c7d134318c12d29726b1ce1f22f7d9",
+  "time" : {
+    "start" : 1606536389001,
+    "stop" : 1606536389200,
+    "duration" : 199
+  },
+  "description" : "\n        测试用例\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    测试用例\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1606536388264,
+      "stop" : 1606536388349,
+      "duration" : 85
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1606536388876,
+      "stop" : 1606536389001,
+      "duration" : 125
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        测试用例\n        :return:\n        ",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ba4ca3aec0833c4f",
+      "name" : "log",
+      "source" : "ba4ca3aec0833c4f.txt",
+      "type" : "text/plain",
+      "size" : 460
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1606536389201,
+      "stop" : 1606536389201,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_mtx_order"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestOrder"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-60EEKMHU"
+  }, {
+    "name" : "thread",
+    "value" : "19948-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_mtx_order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "356d594291a4bd1c.json",
+  "parameterValues" : [ ]
+}

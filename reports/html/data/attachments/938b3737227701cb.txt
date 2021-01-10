@@ -1,0 +1,5 @@
+[32mINFO    [0m root:apiLogin.py:9 开始获取login的url地址:
+[32mINFO    [0m root:apiLogin.py:11 login的url地址是http://121.42.15.146:9090//mtx/index.php?s=/index/user/login.html
+[32mINFO    [0m root:apiLogin.py:33 准备发起成功的login的请求:
+[32mINFO    [0m root:apiLogin.py:35 成功的请求的data数据是{'accounts': 'yaoyao', 'pwd': 'yaoyao'}
+[32mINFO    [0m root:apiLogin.py:37 成功的请求的响应值是<Response [200]>

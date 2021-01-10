@@ -1,0 +1,2 @@
+[32mINFO    [0m root:apiLogin.py:21 准备发起login的请求，请求的参数是{'accounts': '', 'pwd': 'yaoyao'},header是{'X-Requested-With': 'XMLHttpRequest'}
+[32mINFO    [0m root:apiLogin.py:23 获取的响应值是<Response [200]>

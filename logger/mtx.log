@@ -1,0 +1,23 @@
+2020-11-28 12:03:51,754 INFO [root] [apiLogin.py (__init__:9] - 开始获取login的url地址:
+2020-11-28 12:03:52,621 INFO [root] [apiLogin.py (__init__:9] - 开始获取login的url地址:
+2020-11-28 12:03:52,855 INFO [root] [apiLogin.py (__init__:9] - 开始获取login的url地址:
+2020-11-28 12:06:28,348 INFO [root] [apiLogin.py (__init__:9] - 开始获取login的url地址:
+2020-11-28 12:06:28,348 INFO [root] [apiLogin.py (__init__:11] - login的url地址是http://121.42.15.146:9090//mtx/index.php?s=/index/user/login.html
+2020-11-28 12:06:28,350 INFO [root] [apiLogin.py (login:21] - 准备发起login的请求，请求的参数是{'accounts': 'yaoyao', 'pwd': ''},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-28 12:06:28,507 INFO [root] [apiLogin.py (login:23] - 获取的响应值是<Response [200]>
+2020-11-28 12:06:28,513 INFO [root] [apiLogin.py (login:21] - 准备发起login的请求，请求的参数是{'accounts': '', 'pwd': 'yaoyao'},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-28 12:06:28,621 INFO [root] [apiLogin.py (login:23] - 获取的响应值是<Response [200]>
+2020-11-28 12:06:28,627 INFO [root] [apiLogin.py (login:21] - 准备发起login的请求，请求的参数是{'accounts': 'lwx', 'pwd': 'yaoyao'},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-28 12:06:28,740 INFO [root] [apiLogin.py (login:23] - 获取的响应值是<Response [200]>
+2020-11-28 12:06:28,746 INFO [root] [apiLogin.py (login:21] - 准备发起login的请求，请求的参数是{'accounts': 'yaoyao', 'pwd': '123456'},header是{'X-Requested-With': 'XMLHttpRequest'}
+2020-11-28 12:06:28,868 INFO [root] [apiLogin.py (login:23] - 获取的响应值是<Response [200]>
+2020-11-28 12:06:28,875 INFO [root] [apiLogin.py (__init__:9] - 开始获取login的url地址:
+2020-11-28 12:06:28,875 INFO [root] [apiLogin.py (__init__:11] - login的url地址是http://121.42.15.146:9090//mtx/index.php?s=/index/user/login.html
+2020-11-28 12:06:28,875 INFO [root] [apiLogin.py (login_success:33] - 准备发起成功的login的请求:
+2020-11-28 12:06:28,875 INFO [root] [apiLogin.py (login_success:35] - 成功的请求的data数据是{'accounts': 'yaoyao', 'pwd': 'yaoyao'}
+2020-11-28 12:06:29,000 INFO [root] [apiLogin.py (login_success:37] - 成功的请求的响应值是<Response [200]>
+2020-11-28 12:06:29,204 INFO [root] [apiLogin.py (__init__:9] - 开始获取login的url地址:
+2020-11-28 12:06:29,204 INFO [root] [apiLogin.py (__init__:11] - login的url地址是http://121.42.15.146:9090//mtx/index.php?s=/index/user/login.html
+2020-11-28 12:06:29,204 INFO [root] [apiLogin.py (login_success:33] - 准备发起成功的login的请求:
+2020-11-28 12:06:29,205 INFO [root] [apiLogin.py (login_success:35] - 成功的请求的data数据是{'accounts': 'yaoyao', 'pwd': 'yaoyao'}
+2020-11-28 12:06:29,340 INFO [root] [apiLogin.py (login_success:37] - 成功的请求的响应值是<Response [200]>

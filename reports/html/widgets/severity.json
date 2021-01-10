@@ -1,0 +1,61 @@
+[ {
+  "uid" : "6c02f0fda719dded",
+  "name" : "登录的测试用例",
+  "time" : {
+    "start" : 1606536388514,
+    "stop" : 1606536388621,
+    "duration" : 107
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "356d594291a4bd1c",
+  "name" : "test_order",
+  "time" : {
+    "start" : 1606536389001,
+    "stop" : 1606536389200,
+    "duration" : 199
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "146128d6bee9221d",
+  "name" : "登录的测试用例",
+  "time" : {
+    "start" : 1606536388747,
+    "stop" : 1606536388870,
+    "duration" : 123
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61ed070e50c3d9c7",
+  "name" : "登录的测试用例",
+  "time" : {
+    "start" : 1606536388351,
+    "stop" : 1606536388508,
+    "duration" : 157
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef4dd962ebbac3a1",
+  "name" : "test_pay",
+  "time" : {
+    "start" : 1606536389489,
+    "stop" : 1606536390215,
+    "duration" : 726
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1a019c5e834804a",
+  "name" : "登录的测试用例",
+  "time" : {
+    "start" : 1606536388627,
+    "stop" : 1606536388741,
+    "duration" : 114
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

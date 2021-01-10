@@ -1,0 +1,19 @@
+test_login:
+  # 测试用例编号，第一条测试用例
+  test_login_001:
+    accounts: "yaoyao"
+    pwd: ""
+    exp: '密码格式 6~18 个字符之间'
+    # 第二条测试用例
+  test_login_002:
+    accounts: ""
+    pwd: "yaoyao"
+    exp: '登录账号有误'
+  test_login_003:
+    accounts: "lwx"
+    pwd: "yaoyao"
+    exp: '帐号不存在'
+  test_login_004:
+    accounts: "yaoyao"
+    pwd: "123456"
+    exp: '密码错误'
